@@ -103,7 +103,7 @@
     <h2>会社情報</h2>
     <ul>
       <li><strong>会社名：</strong>合同会社D'zero.</li>
-      <li><strong>所在地：</strong>福岡市中央区那の川2-7-3 702号</li>
+      <li><strong>所在地：</strong>福岡市中央区那の川2-7-3 </li>
       <li><strong>設立：</strong>2025年</li>
       <li><strong>代表者：</strong>倉光順子</li>
       <li><strong>連絡先：</strong><a href="mailto:llc.d.zero726@gmail.com">llc.d.zero726@gmail.com</a></li>
